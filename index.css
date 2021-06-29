@@ -1,0 +1,32 @@
+#h{
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    background-color: black;
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 18%;
+    margin-left: 32%;
+    width: 400px;
+}
+
+#butt{
+    border: 2px solid black;
+    text-align: center;
+    color: black;
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    background: transparent;
+    margin-top: 2%;
+    margin-left: 45%;
+}
+
+#butt:hover{
+    background-color: black;
+    color: white;
+    transition: all 0.6s;
+}
+
